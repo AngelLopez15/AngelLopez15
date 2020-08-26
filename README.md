@@ -3,9 +3,9 @@
 
 ## Acerca de mi :mortar_board:
 
-Soy ingeniero en computación egresado de la Facultad de Ingeniria, UNAM. Apasinado por la ciencia y la tecnologia 😍 fue esto lo me motivo a adentrarme en el mundo del desarrollo web.
+Soy ingeniero en computación egresado de la Facultad de Ingeniría, UNAM. Apasinado por la ciencia y la tecnología 😍 fue esto lo me motivo a adentrarme en el mundo del desarrollo.
 
-Creo firmemente **la educación es la base de toda gran nación y persona**. 🧠 
+Creo firmemente que **la educación es la base de toda gran nación y persona**. 🧠 
 
 **"Per Aspera ad Astra" (Por el camino dificil hasta las estrellas)** :rocket:
 
