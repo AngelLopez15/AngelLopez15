@@ -1,13 +1,17 @@
 
 # Hola 👋 soy {AngelLopez:':wolf:'} 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/MBUAwqWATRI3KE4T7b/giphy.gif">
+</p>
+
 ## Acerca de mi :mortar_board:
 
 Soy ingeniero en computación egresado de la Facultad de Ingeniría, UNAM. Apasinado por la ciencia y la tecnología 😍 fue esto lo me motivo a adentrarme en el mundo del desarrollo.
 
 Creo firmemente que **la educación es la base de toda gran nación y persona**. 🧠 
 
-**"Per Aspera ad Astra" (Por el camino dificil hasta las estrellas)** :rocket:
+**"Per Aspera ad Astra" (Por el camino difícil hasta las estrellas)** :rocket:
 
 ## Lo que se :computer:
 
