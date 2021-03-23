@@ -1,5 +1,5 @@
 
-# Hola 👋 soy {AngelLopez:':wolf:'} 
+# Hola 👋 soy {AngelLopez:'😼'} 
 
 <p align="center">
   <img src="https://media.giphy.com/media/MBUAwqWATRI3KE4T7b/giphy.gif">
