@@ -37,7 +37,6 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
 
 - **Diseño**
 	- AdobeXD 
@@ -49,11 +48,9 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 - **Algo de Backend que conozco**
 	- Node 
 	- GraphQL
-	- Apollo GraphQL
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
-[![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
 
 - **Bases de Datos**
 	- Mongo 
@@ -73,7 +70,7 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 	- Github Pages 
 	- Netlify
 	- Vercel
-  - Heroku
+  	- Heroku
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
