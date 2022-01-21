@@ -47,10 +47,8 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 
 - **Algo de Backend que conozco**
 	- Node 
-	- GraphQL
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
 
 - **Bases de Datos**
 	- Mongo 
