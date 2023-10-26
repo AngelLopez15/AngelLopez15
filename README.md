@@ -17,9 +17,7 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 
 - **Programación**
 	- Javascript :yellow_heart:
-  - C#
   - Python
-  - Algo de Java
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -28,8 +26,10 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 - **Frontend**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap 4
-	- React con Hooks y Redux :electron:
+	- React Class components and Hooks :electron:
+ 	- Redux
   - SASS
+  - NEXT JS
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
@@ -39,7 +39,6 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
 
 - **Diseño**
-	- AdobeXD 
 	- Figma
 
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
@@ -68,12 +67,10 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 	- Github Pages 
 	- Netlify
 	- Vercel
-  	- Heroku
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
 
 ## ¿Qué es lo que sigue? :thinking:
 - Ser un mejor Backend developer
