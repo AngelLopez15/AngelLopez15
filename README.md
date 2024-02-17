@@ -17,9 +17,7 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 
 - **Programación**
 	- Javascript :yellow_heart:
-  - Python
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
 
@@ -50,13 +48,9 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
 
 - **Bases de Datos**
-	- Mongo 
-	- SQL server
-	- MySQL
+	- Mongo
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 - **CMS**
 	- Wordpress  
@@ -73,14 +67,13 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## ¿Qué es lo que sigue? :thinking:
-- Ser un mejor Backend developer
 - Ser un Full-Stack developer
 - Ser un mobile developer
 - Descubrir los secretos de la vida :sunglasses:
 
 ## <i>Sigueme:</i><br>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AO_lopez) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@a.o.lopez.cruz)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/angeloctaviolopezcruz/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ao_lopezdev/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@a.o.lopez.cruz)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/angeloctaviolopezcruz/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ao_lopezdev/)
 
 ### ¡Gracias por visitarme! 😁
 
