@@ -7,7 +7,7 @@
 
 ## Acerca de mi :mortar_board:
 
-Soy ingeniero en computación egresado de la Facultad de Ingeniría, UNAM. Apasinado por la ciencia y la tecnología 😍 fue esto lo me motivo a adentrarme en el mundo del desarrollo.
+Soy ingeniero en computación egresado de la Facultad de Ingeniría, UNAM. Apasinado por la ciencia y la tecnología 😍 Desarrollador web Frontend.
 
 Creo firmemente que **la educación es la base de toda gran nación y persona**. 🧠 
 
@@ -42,7 +42,7 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
 
-- **Algo de Backend que conozco**
+- **Backend**
 	- Node 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/AngelLopez15)](https://github.com/AngelLopez15)
@@ -65,11 +65,6 @@ Creo firmemente que **la educación es la base de toda gran nación y persona**.
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-## ¿Qué es lo que sigue? :thinking:
-- Ser un Full-Stack developer
-- Ser un mobile developer
-- Descubrir los secretos de la vida :sunglasses:
 
 ## <i>Sigueme:</i><br>
 
